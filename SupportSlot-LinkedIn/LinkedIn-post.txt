@@ -1,0 +1,28 @@
+I've been building SupportSlot, an AI-assisted IT service booking application, as my full-stack capstone project.
+
+The problem: when your laptop is slow or your Wi-Fi keeps dropping, choosing the right support service can be confusing. SupportSlot brings service selection and appointment booking into one workflow.
+
+Here is how the project came together:
+
+1. Planning: defined the customer journey, service catalog, user roles, and booking rules.
+2. Frontend: built a responsive React interface for services, accounts, and appointments.
+3. Backend: created Express APIs for authentication, availability, and bookings.
+4. Database: connected MongoDB and used a unique reservation index to prevent double-booking.
+5. Service finder: added a provider-ready AI integration that checks recommendations against the catalog and labels keyword fallback when AI is unavailable.
+6. Verification: checked booking conflicts, account permissions, validation, and the browser booking workflow.
+7. Deployment: connected the GitHub repository to Render and worked through dependency and database access configuration.
+
+Customers can browse services, create an account, choose an available appointment, review their intake notes, and manage bookings. An admin view provides an overview of the appointment queue.
+
+Stack: React + Vite | Node.js + Express | MongoDB + Mongoose
+
+I used AI assistance to create the application foundation and am reviewing, testing, and extending it as part of the project. My focus is understanding how the interface, API, database, and AI integration work together.
+
+The attached walkthrough explains the screens and the decisions behind them. Booking screenshots use local demo data; the finder example shows the labeled fallback, not a verified live AI response.
+
+Website: https://supportslot.onrender.com/
+GitHub: https://github.com/gim1203-hue/SupportSlot
+
+I'm interested in junior frontend and full-stack opportunities. Feedback on the user experience and implementation is welcome.
+
+#ReactJS #NodeJS #MongoDB #FullStackDevelopment #WebDevelopment #PortfolioProject

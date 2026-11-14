@@ -1,0 +1,12 @@
+HOW TO USE THIS LINKEDIN KIT
+
+1. Open LinkedIn and choose Start a post.
+2. Copy the text from LinkedIn-post.txt and adjust it to match your own experience.
+3. Attach SupportSlot-walkthrough.pdf as a document. Suggested title: SupportSlot | IT booking project walkthrough.
+4. Review the website and repository links before publishing.
+5. Keep the screenshot disclaimer unless you replace the local examples with your own verified production screenshots.
+
+The post has not been published or sent anywhere.
+The PDF has 8 pages. PNG versions are in carousel-images/ for a photo post if preferred.
+Raw screen captures are in screenshots/. Those captures show the generated local version, except live-home.png if present.
+The AI example deliberately shows keyword fallback. Real Gemini configuration and accuracy have not been independently verified.
